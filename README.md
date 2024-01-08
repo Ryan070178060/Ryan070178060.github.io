@@ -54,4 +54,4 @@ This project is licensed by the MIT
 
 ---
 
-Thank you for visiting my portfolio! I look forward to the opportunity to collaborate and create something amazing together.
+Thank you for visiting my portfolio! I look forward to the opportunity to collaborate and create something amazing.
