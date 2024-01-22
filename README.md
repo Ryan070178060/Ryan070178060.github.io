@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to my portfolio website! This is the place where you can learn more about me, explore my skills and projects, and get in touch with me. Whether you're a potential employer, collaborator, or just curious about my work, I hope you find the information here valuable.
+Welcome to my portfolio website This is the place where you can learn more about me, explore my skills and projects, and get in touch with me. Whether you're a potential employer, collaborator, or just curious about my work, I hope you find the information here valuable.
 
 ## Table of Contents
 
@@ -32,7 +32,7 @@ I am Ryan, a passionate and dedicated Developer based in Nairobi, Kenya. With a 
 - **Link:** [https://github.com/Ryan070178060/app-dev]
 ]
 
-### Project 2: [Website ui templete]
+### Project 2: [Website UI templete]
 
 - **Description:** [A simple website UI template]
 - **Technologies Used:** [HTML CSS JavaScript]
@@ -42,7 +42,7 @@ I am Ryan, a passionate and dedicated Developer based in Nairobi, Kenya. With a 
 
 ## Contact
 
-I would love to connect with you! Feel free to reach out to me through:
+I would love to connect with you, Feel free to reach out to me through:
 
 - **Email:** [ryanshamala254@gmail.com]
 - **LinkedIn:** [https://www.linkedin.com/in/ryan-shamala-4a675423b/]
